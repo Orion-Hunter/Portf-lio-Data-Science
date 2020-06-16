@@ -1,4 +1,4 @@
-![Screenshot](data-science-1280x640.jpg)
+![Screenshot](datascience-1.png)
 
 
 
