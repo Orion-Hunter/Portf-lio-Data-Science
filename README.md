@@ -9,4 +9,6 @@ Portfólio que reúne os meus projetos em data science, machine learning e anál
 
 2 - [Filtro de Palavrões](https://github.com/Orion-Hunter/FuzzyFilter)
 
+3 - [Gerador de Nuvens de palavras com termos mais utilizandos nos títulos de vídeos de canais de direita e esquerda do youtube](https://github.com/Orion-Hunter/youtubedatavizpoc)
+
 
